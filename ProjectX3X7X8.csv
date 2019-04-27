@@ -1,0 +1,1015 @@
+Town,Year,CityType,Population,BirthsRate,DeathsRate
+ Andover           ,2010,Town,3303,0.54,0.58
+ Ansonia           ,2010,Town,19249,1.31,0.96
+ Ashford           ,2010,Town,4318,1.04,0.67
+ Avon              ,2010,Town,18101,0.67,0.76
+ Barkhamsted       ,2010,Town,3796,0.42,0.42
+ Beacon Falls      ,2010,Town,6049,0.84,0.88
+ Berlin            ,2010,Town,19868,0.71,0.92
+ Bethany           ,2010,Town,5562,0.56,0.56
+ Bethel            ,2010,Town,18615,0.91,0.64
+ Bethlehem         ,2010,Town,3604,0.55,0.8
+ Bloomfield        ,2010,LargeTown,20489,0.99,1.25
+ Bolton            ,2010,Town,4981,0.58,0.72
+ Bozrah            ,2010,Town,2626,0.72,0.8
+ Branford          ,2010,LargeTown,28024,0.81,1.05
+ Bridgeport        ,2010,City,144463,1.51,0.67
+ Bridgewater       ,2010,Town,1725,0.52,1.1
+ Bristol           ,2010,LargeTown,60484,1.1,0.88
+ Brookfield        ,2010,Town,16478,0.81,0.59
+ Brooklyn          ,2010,Town,8211,0.9,1.13
+ Burlington        ,2010,Town,9302,0.63,0.45
+ Canaan            ,2010,Town,1234,0.97,0.81
+ Canterbury        ,2010,Town,5133,0.64,0.74
+ Canton            ,2010,Town,10294,0.8,0.73
+ Chaplin           ,2010,Town,2305,1.21,0.65
+ Cheshire          ,2010,LargeTown,29260,0.63,0.67
+ Chester           ,2010,Town,3992,0.65,1.4
+ Clinton           ,2010,Town,13256,0.76,0.81
+ Colchester        ,2010,Town,16066,0.94,0.73
+ Colebrook         ,2010,Town,1484,0.81,0.81
+ Columbia          ,2010,Town,5488,0.75,0.73
+ Cornwall          ,2010,Town,1419,0.92,0.63
+ Coventry          ,2010,Town,12438,0.92,0.6
+ Cromwell          ,2010,Town,14001,1.08,1.01
+ Danbury           ,2010,LargeTown,81023,1.41,0.61
+ Darien            ,2010,LargeTown,20767,1.06,0.5
+ Deep River        ,2010,Town,4629,0.8,0.78
+ Derby             ,2010,Town,12901,0.91,1.06
+ Durham            ,2010,Town,7386,0.7,0.62
+ Eastford          ,2010,Town,1750,0.57,0.34
+ East Granby       ,2010,Town,5148,1.09,0.64
+ East Haddam       ,2010,Town,9123,0.89,0.64
+ East Hampton      ,2010,Town,12954,1.09,0.64
+ East Hartford     ,2010,LargeTown,51259,1.36,0.93
+ East Haven        ,2010,LargeTown,29257,0.96,1.14
+ East Lyme         ,2010,Town,19156,0.65,0.75
+ Easton            ,2010,Town,7502,0.59,0.71
+ East Windsor      ,2010,Town,11163,1.12,1.02
+ Ellington         ,2010,Town,15607,1,0.51
+ Enfield           ,2010,LargeTown,44659,0.89,0.85
+ Essex             ,2010,Town,6682,0.54,1.17
+ Fairfield         ,2010,LargeTown,59496,0.87,0.85
+ Farmington        ,2010,LargeTown,25343,0.78,0.9
+ Franklin          ,2010,Town,1922,0.68,0.73
+ Glastonbury       ,2010,LargeTown,34432,0.73,0.75
+ Goshen            ,2010,Town,2973,0.5,0.77
+ Granby            ,2010,Town,11284,0.61,0.66
+ Greenwich         ,2010,LargeTown,61274,1.01,0.75
+ Griswold          ,2010,Town,11950,0.99,0.74
+ Groton            ,2010,LargeTown,40109,1.47,0.58
+ Guilford          ,2010,LargeTown,22375,0.68,0.71
+ Haddam            ,2010,Town,8344,0.8,0.64
+ Hamden            ,2010,LargeTown,60957,1.02,0.94
+ Hampton           ,2010,Town,1864,0.86,0.64
+ Hartford          ,2010,City,124789,1.61,0.63
+ Hartland          ,2010,Town,2115,0.76,0.38
+ Harwinton         ,2010,Town,5638,0.59,0.71
+ Hebron            ,2010,Town,9690,0.75,0.39
+ Kent              ,2010,Town,2977,0.6,1.04
+ Killingly         ,2010,Town,17374,1.13,0.93
+ Killingworth      ,2010,Town,6523,0.64,0.64
+ Lebanon           ,2010,Town,7306,0.83,0.68
+ Ledyard           ,2010,Town,15050,1.08,0.43
+ Lisbon            ,2010,Town,4338,0.69,0.51
+ Litchfield        ,2010,Town,8457,0.59,0.97
+ Lyme              ,2010,Town,2405,0.21,0.62
+ Madison           ,2010,Town,18267,0.47,0.78
+ Manchester        ,2010,LargeTown,58249,1.38,0.76
+ Mansfield         ,2010,LargeTown,26546,0.37,0.45
+ Marlborough       ,2010,Town,6406,0.72,0.8
+ Meriden           ,2010,LargeTown,60866,1.29,0.77
+ Middlebury        ,2010,Town,7575,0.81,0.84
+ Middlefield       ,2010,Town,4423,0.75,0.72
+ Middletown        ,2010,LargeTown,47636,1.13,0.83
+ Milford           ,2010,LargeTown,52757,0.89,0.98
+ Monroe            ,2010,Town,19512,0.71,0.63
+ Montville         ,2010,Town,19568,0.84,0.73
+ Morris            ,2010,Town,2387,0.92,1.09
+ Naugatuck         ,2010,LargeTown,31861,1.1,0.78
+ New Britain       ,2010,LargeTown,73215,1.51,0.92
+ New Canaan        ,2010,Town,19770,0.72,0.6
+ New Fairfield     ,2010,Town,13905,0.84,0.48
+ New Hartford      ,2010,Town,6963,0.89,0.62
+ New Haven         ,2010,City,129774,1.54,0.67
+ Newington         ,2010,LargeTown,30565,0.81,0.96
+ New London        ,2010,LargeTown,27617,1.23,0.76
+ New Milford       ,2010,LargeTown,28115,0.85,0.67
+ Newtown           ,2010,LargeTown,27606,0.72,0.57
+ Norfolk           ,2010,Town,1707,0.59,0.41
+ North Branford    ,2010,Town,14407,0.72,0.9
+ North Canaan      ,2010,Town,3311,0.88,1.45
+ North Haven       ,2010,LargeTown,24091,0.66,0.93
+ North Stonington  ,2010,Town,5295,0.77,0.83
+ Norwalk           ,2010,LargeTown,85746,1.4,0.65
+ Norwich           ,2010,LargeTown,40488,1.2,0.85
+ Old Lyme          ,2010,Town,7603,0.64,1.07
+ Old Saybrook      ,2010,Town,10238,0.63,1.5
+ Orange            ,2010,Town,13956,0.58,0.98
+ Oxford            ,2010,Town,12682,0.82,0.6
+ Plainfield        ,2010,Town,15410,0.99,0.82
+ Plainville        ,2010,Town,17718,0.85,0.94
+ Plymouth          ,2010,Town,12232,1.02,0.78
+ Pomfret           ,2010,Town,4249,1.04,0.66
+ Portland          ,2010,Town,9506,0.92,0.81
+ Preston           ,2010,Town,4725,0.83,0.78
+ Prospect          ,2010,Town,9404,0.68,0.88
+ Putnam            ,2010,Town,9587,1.07,1.07
+ Redding           ,2010,Town,9173,0.58,0.85
+ Ridgefield        ,2010,LargeTown,24679,0.68,0.51
+ Rocky Hill        ,2010,Town,19712,0.95,0.97
+ Roxbury           ,2010,Town,2259,0.62,0.66
+ Salem             ,2010,Town,4151,0.82,0.55
+ Salisbury         ,2010,Town,3738,0.62,1.63
+ Scotland          ,2010,Town,1727,1.04,0.46
+ Seymour           ,2010,Town,16540,0.8,0.98
+ Sharon            ,2010,Town,2780,0.47,1.62
+ Shelton           ,2010,LargeTown,39626,0.81,0.9
+ Sherman           ,2010,Town,3586,0.56,0.47
+ Simsbury          ,2010,LargeTown,23514,0.71,0.78
+ Somers            ,2010,Town,11448,0.55,0.68
+ Southbury         ,2010,Town,19903,0.56,1.36
+ Southington       ,2010,LargeTown,43074,0.81,0.88
+ South Windsor     ,2010,LargeTown,25713,0.86,0.75
+ Sprague           ,2010,Town,2983,0.87,0.74
+ Stafford          ,2010,Town,12092,0.9,0.93
+ Stamford          ,2010,City,122848,1.57,0.67
+ Sterling          ,2010,Town,3832,1.15,0.57
+ Stonington        ,2010,Town,18543,0.61,1.3
+ Stratford         ,2010,LargeTown,51470,1.03,0.96
+ Suffield          ,2010,Town,15739,0.54,0.85
+ Thomaston         ,2010,Town,7880,0.91,0.75
+ Thompson          ,2010,Town,9462,0.78,0.88
+ Tolland           ,2010,Town,15057,0.66,0.66
+ Torrington        ,2010,LargeTown,36350,1.11,1.08
+ Trumbull          ,2010,LargeTown,36077,0.79,0.99
+ Union             ,2010,Town,853,0.59,1.06
+ Vernon            ,2010,LargeTown,29188,1.28,0.92
+ Voluntown         ,2010,Town,2602,0.81,0.77
+ Wallingford       ,2010,LargeTown,45133,0.86,1.01
+ Warren            ,2010,Town,1460,0.27,0.41
+ Washington        ,2010,Town,3574,0.76,0.7
+ Waterbury         ,2010,City,110360,1.4,0.88
+ Waterford         ,2010,Town,19515,0.81,1.07
+ Watertown         ,2010,LargeTown,22492,0.8,0.86
+ Westbrook         ,2010,Town,6937,0.58,0.65
+ West Hartford     ,2010,LargeTown,63276,1.04,1.01
+ West Haven        ,2010,LargeTown,55561,1.25,0.77
+ Weston            ,2010,Town,10196,0.6,0.31
+ Westport          ,2010,LargeTown,26436,0.73,0.54
+ Wethersfield      ,2010,LargeTown,26670,0.95,1.05
+ Willington        ,2010,Town,6043,0.63,0.65
+ Wilton            ,2010,Town,18091,0.72,0.67
+ Winchester        ,2010,Town,11231,0.89,1.04
+ Windham           ,2010,LargeTown,25273,1.19,0.8
+ Windsor           ,2010,LargeTown,29048,0.97,0.84
+ Windsor Locks     ,2010,Town,12498,0.84,0.87
+ Wolcott           ,2010,Town,16678,0.71,0.79
+ Woodbridge        ,2010,Town,8989,0.59,1.15
+ Woodbury          ,2010,Town,9965,0.64,0.82
+ Woodstock         ,2010,Town,7966,0.73,0.73
+ Andover           ,2011,Town,3298,0.76,0.64
+ Ansonia           ,2011,Town,19219,0.98,0.92
+ Ashford           ,2011,Town,4307,0.86,0.65
+ Avon              ,2011,Town,18113,0.61,0.82
+ Barkhamsted       ,2011,Town,3776,0.48,0.72
+ Beacon Falls      ,2011,Town,6038,0.61,0.66
+ Berlin            ,2011,Town,19881,0.7,1.05
+ Bethany           ,2011,Town,5554,0.67,0.58
+ Bethel            ,2011,Town,18771,0.89,0.6
+ Bethlehem         ,2011,Town,3586,0.61,0.56
+ Bloomfield        ,2011,LargeTown,20502,0.81,1.34
+ Bolton            ,2011,Town,4974,0.7,0.7
+ Bozrah            ,2011,Town,2622,0.72,1.11
+ Branford          ,2011,LargeTown,27980,0.74,1.08
+ Bridgeport        ,2011,City,145638,1.55,0.65
+ Bridgewater       ,2011,Town,1716,0.23,1.22
+ Bristol           ,2011,LargeTown,60525,1.09,0.97
+ Brookfield        ,2011,Town,16617,0.77,0.64
+ Brooklyn          ,2011,Town,8192,0.98,0.95
+ Burlington        ,2011,Town,9309,0.75,0.49
+ Canaan            ,2011,Town,1227,0.73,0.98
+ Canterbury        ,2011,Town,5119,0.86,0.68
+ Canton            ,2011,Town,10300,0.77,0.72
+ Chaplin           ,2011,Town,2298,0.83,0.44
+ Cheshire          ,2011,LargeTown,29216,0.59,0.66
+ Chester           ,2011,Town,4003,0.7,1.27
+ Clinton           ,2011,Town,13290,0.74,0.77
+ Colchester        ,2011,Town,16034,0.85,0.71
+ Colebrook         ,2011,Town,1476,0.61,0.95
+ Columbia          ,2011,Town,5477,0.91,0.68
+ Cornwall          ,2011,Town,1412,0.28,1.13
+ Coventry          ,2011,Town,12418,0.87,0.59
+ Cromwell          ,2011,Town,14037,1.05,1.09
+ Danbury           ,2011,LargeTown,81671,1.32,0.64
+ Darien            ,2011,LargeTown,20942,1,0.48
+ Deep River        ,2011,Town,4639,0.82,0.91
+ Derby             ,2011,Town,12882,1.04,1.13
+ Durham            ,2011,Town,7403,0.76,0.73
+ Eastford          ,2011,Town,1744,1.03,0.52
+ East Granby       ,2011,Town,5152,1.05,0.8
+ East Haddam       ,2011,Town,9146,0.72,0.51
+ East Hampton      ,2011,Town,12989,1.02,0.59
+ East Hartford     ,2011,LargeTown,51293,1.28,0.95
+ East Haven        ,2011,LargeTown,29209,0.97,1.14
+ East Lyme         ,2011,Town,19124,0.56,0.85
+ Easton            ,2011,Town,7564,0.5,0.58
+ East Windsor      ,2011,Town,11170,1.15,0.81
+ Ellington         ,2011,Town,15582,0.86,0.58
+ Enfield           ,2011,LargeTown,44686,0.97,0.85
+ Essex             ,2011,Town,6698,0.72,1.18
+ Fairfield         ,2011,LargeTown,59961,0.84,0.81
+ Farmington        ,2011,LargeTown,25361,0.81,1.07
+ Franklin          ,2011,Town,1917,0.78,0.47
+ Glastonbury       ,2011,LargeTown,34454,0.71,0.74
+ Goshen            ,2011,Town,2957,0.44,0.85
+ Granby            ,2011,Town,11291,0.7,0.73
+ Greenwich         ,2011,LargeTown,61782,1.04,0.69
+ Griswold          ,2011,Town,11925,0.99,0.7
+ Groton            ,2011,LargeTown,40038,1.48,0.7
+ Guilford          ,2011,LargeTown,22340,0.51,0.71
+ Haddam            ,2011,Town,8364,0.84,0.63
+ Hamden            ,2011,LargeTown,60868,1.05,1.02
+ Hampton           ,2011,Town,1858,0.7,0.65
+ Hartford          ,2011,City,124867,1.58,0.66
+ Hartland          ,2011,Town,2116,0.66,0.66
+ Harwinton         ,2011,Town,5608,0.62,0.7
+ Hebron            ,2011,Town,9673,0.74,0.48
+ Kent              ,2011,Town,2961,0.44,1.28
+ Killingly         ,2011,Town,17330,1.08,0.91
+ Killingworth      ,2011,Town,6540,0.55,0.75
+ Lebanon           ,2011,Town,7292,0.67,0.74
+ Ledyard           ,2011,Town,15019,1.13,0.62
+ Lisbon            ,2011,Town,4330,0.72,0.85
+ Litchfield        ,2011,Town,8417,0.68,1.05
+ Lyme              ,2011,Town,2401,0.5,0.83
+ Madison           ,2011,Town,18239,0.61,0.77
+ Manchester        ,2011,LargeTown,58287,1.4,0.88
+ Mansfield         ,2011,LargeTown,26524,0.36,0.35
+ Marlborough       ,2011,Town,6410,0.5,0.59
+ Meriden           ,2011,LargeTown,60770,1.3,0.9
+ Middlebury        ,2011,Town,7563,0.73,0.81
+ Middlefield       ,2011,Town,4436,0.72,0.77
+ Middletown        ,2011,LargeTown,47749,1.1,0.85
+ Milford           ,2011,LargeTown,52675,0.91,0.93
+ Monroe            ,2011,Town,19675,0.71,0.62
+ Montville         ,2011,Town,19533,0.9,0.65
+ Morris            ,2011,Town,2373,0.63,1.1
+ Naugatuck         ,2011,LargeTown,31810,1.19,0.81
+ New Britain       ,2011,LargeTown,73261,1.36,0.89
+ New Canaan        ,2011,Town,19938,0.87,0.61
+ New Fairfield     ,2011,Town,14020,0.73,0.53
+ New Hartford      ,2011,Town,6929,0.75,0.59
+ New Haven         ,2011,City,129585,1.49,0.65
+ Newington         ,2011,LargeTown,30586,0.96,1.05
+ New London        ,2011,LargeTown,27569,1.39,0.74
+ New Milford       ,2011,LargeTown,27972,0.97,0.65
+ Newtown           ,2011,LargeTown,27829,0.61,0.62
+ Norfolk           ,2011,Town,1698,0.41,0.77
+ North Branford    ,2011,Town,14383,0.71,1.03
+ North Canaan      ,2011,Town,3295,0.82,2.09
+ North Haven       ,2011,LargeTown,24054,0.78,0.88
+ North Stonington  ,2011,Town,5287,0.91,0.78
+ Norwalk           ,2011,LargeTown,86460,1.39,0.63
+ Norwich           ,2011,LargeTown,40408,1.34,0.95
+ Old Lyme          ,2011,Town,7587,0.49,0.88
+ Old Saybrook      ,2011,Town,10265,0.61,1.39
+ Orange            ,2011,Town,13933,0.7,0.95
+ Oxford            ,2011,Town,12662,0.81,0.58
+ Plainfield        ,2011,Town,15369,1.11,0.88
+ Plainville        ,2011,Town,17730,1.07,0.98
+ Plymouth          ,2011,Town,12169,0.87,0.82
+ Pomfret           ,2011,Town,4236,0.52,0.68
+ Portland          ,2011,Town,9530,0.72,1.11
+ Preston           ,2011,Town,4716,0.53,0.93
+ Prospect          ,2011,Town,9390,0.68,0.83
+ Putnam            ,2011,Town,9562,1.04,1.19
+ Redding           ,2011,Town,9250,0.63,0.81
+ Ridgefield        ,2011,LargeTown,24885,0.69,0.54
+ Rocky Hill        ,2011,Town,19723,0.97,1.23
+ Roxbury           ,2011,Town,2249,0.71,0.93
+ Salem             ,2011,Town,4142,0.65,0.48
+ Salisbury         ,2011,Town,3720,0.59,1.4
+ Scotland          ,2011,Town,1722,0.75,0.58
+ Seymour           ,2011,Town,16514,0.9,0.96
+ Sharon            ,2011,Town,2766,0.51,1.34
+ Shelton           ,2011,LargeTown,39954,0.84,0.96
+ Sherman           ,2011,Town,3618,0.41,0.47
+ Simsbury          ,2011,LargeTown,23528,0.75,0.82
+ Somers            ,2011,Town,11433,0.46,0.63
+ Southbury         ,2011,Town,19873,0.55,1.38
+ Southington       ,2011,LargeTown,43103,0.8,0.99
+ South Windsor     ,2011,LargeTown,25729,0.72,0.88
+ Sprague           ,2011,Town,2978,1.01,0.94
+ Stafford          ,2011,Town,12072,0.91,0.88
+ Stamford          ,2011,City,123868,1.43,0.65
+ Sterling          ,2011,Town,3820,0.92,0.68
+ Stonington        ,2011,Town,18506,0.76,1.33
+ Stratford         ,2011,LargeTown,51901,1.07,1.05
+ Suffield          ,2011,Town,15747,0.58,0.81
+ Thomaston         ,2011,Town,7838,0.75,0.73
+ Thompson          ,2011,Town,9435,0.9,0.78
+ Tolland           ,2011,Town,15031,0.61,0.65
+ Torrington        ,2011,LargeTown,36167,1.05,1.12
+ Trumbull          ,2011,LargeTown,36376,0.68,0.97
+ Union             ,2011,Town,853,1.17,0.35
+ Vernon            ,2011,LargeTown,29139,1.16,0.97
+ Voluntown         ,2011,Town,2597,1.12,0.73
+ Wallingford       ,2011,LargeTown,45062,0.93,1.08
+ Warren            ,2011,Town,1453,0.76,0.62
+ Washington        ,2011,Town,3557,0.59,0.62
+ Waterbury         ,2011,City,110189,1.43,0.9
+ Waterford         ,2011,Town,19477,0.69,1.1
+ Watertown         ,2011,LargeTown,22377,0.76,0.75
+ Westbrook         ,2011,Town,6954,0.78,0.78
+ West Hartford     ,2011,LargeTown,63317,0.99,1.05
+ West Haven        ,2011,LargeTown,55477,1.24,0.81
+ Weston            ,2011,Town,10281,0.48,0.47
+ Westport          ,2011,LargeTown,26656,0.66,0.59
+ Wethersfield      ,2011,LargeTown,26690,0.97,1.15
+ Willington        ,2011,Town,6033,0.75,0.53
+ Wilton            ,2011,Town,18242,0.66,0.71
+ Winchester        ,2011,Town,11175,0.89,1.01
+ Windham           ,2011,LargeTown,25214,1.23,0.78
+ Windsor           ,2011,LargeTown,29067,0.9,0.84
+ Windsor Locks     ,2011,Town,12507,0.95,1.11
+ Wolcott           ,2011,Town,16652,0.73,0.74
+ Woodbridge        ,2011,Town,8976,0.69,1.05
+ Woodbury          ,2011,Town,9915,0.57,0.81
+ Woodstock         ,2011,Town,7945,0.62,0.74
+ Andover           ,2012,Town,3272,0.46,0.52
+ Ansonia           ,2012,Town,19158,1.15,0.94
+ Ashford           ,2012,Town,4284,1.03,0.65
+ Avon              ,2012,Town,18283,0.67,0.78
+ Barkhamsted       ,2012,Town,3759,0.64,0.67
+ Beacon Falls      ,2012,Town,6065,0.71,0.53
+ Berlin            ,2012,LargeTown,20463,0.71,1.04
+ Bethany           ,2012,Town,5550,0.61,0.52
+ Bethel            ,2012,Town,19161,0.79,0.7
+ Bethlehem         ,2012,Town,3566,0.45,1.12
+ Bloomfield        ,2012,LargeTown,20602,0.87,1.23
+ Bolton            ,2012,Town,4960,0.89,0.63
+ Bozrah            ,2012,Town,2638,0.68,0.68
+ Branford          ,2012,LargeTown,28024,0.85,1.13
+ Bridgeport        ,2012,City,146425,1.45,0.67
+ Bridgewater       ,2012,Town,1702,0.47,1.12
+ Bristol           ,2012,LargeTown,60603,1.08,0.94
+ Brookfield        ,2012,Town,16783,0.66,0.69
+ Brooklyn          ,2012,Town,8203,0.8,0.9
+ Burlington        ,2012,Town,9434,0.93,0.48
+ Canaan            ,2012,Town,1218,0.74,1.31
+ Canterbury        ,2012,Town,5106,0.92,0.63
+ Canton            ,2012,Town,10351,0.75,0.91
+ Chaplin           ,2012,Town,2286,0.52,0.61
+ Cheshire          ,2012,LargeTown,29300,0.56,0.82
+ Chester           ,2012,Town,4245,0.59,1.04
+ Clinton           ,2012,Town,13196,0.74,0.77
+ Colchester        ,2012,Town,16187,0.86,0.81
+ Colebrook         ,2012,Town,1461,0.41,0.55
+ Columbia          ,2012,Town,5461,0.73,0.6
+ Cornwall          ,2012,Town,1399,0.36,0.79
+ Coventry          ,2012,Town,12425,0.89,0.56
+ Cromwell          ,2012,Town,14217,1.1,1.06
+ Danbury           ,2012,LargeTown,82807,1.32,0.58
+ Darien            ,2012,LargeTown,21114,0.94,0.55
+ Deep River        ,2012,Town,4603,0.74,0.96
+ Derby             ,2012,Town,12830,0.99,0.88
+ Durham            ,2012,Town,7368,0.64,0.64
+ Eastford          ,2012,Town,1730,0.75,0.69
+ East Granby       ,2012,Town,5184,0.85,0.62
+ East Haddam       ,2012,Town,9158,0.78,0.6
+ East Hampton      ,2012,Town,12940,0.83,0.76
+ East Hartford     ,2012,LargeTown,51272,1.35,0.93
+ East Haven        ,2012,LargeTown,29190,0.84,1.11
+ East Lyme         ,2012,Town,18892,0.64,0.85
+ Easton            ,2012,Town,7603,0.58,0.78
+ East Windsor      ,2012,Town,11387,1.16,1.08
+ Ellington         ,2012,Town,15779,0.87,0.52
+ Enfield           ,2012,LargeTown,44660,0.87,0.91
+ Essex             ,2012,Town,6648,0.41,1.02
+ Fairfield         ,2012,LargeTown,60450,0.78,0.81
+ Farmington        ,2012,LargeTown,25529,0.81,0.96
+ Franklin          ,2012,Town,1991,0.65,0.75
+ Glastonbury       ,2012,LargeTown,34698,0.67,0.74
+ Goshen            ,2012,Town,2952,0.68,0.71
+ Granby            ,2012,Town,11316,0.71,0.77
+ Greenwich         ,2012,LargeTown,62256,1.1,0.64
+ Griswold          ,2012,Town,11986,0.93,0.68
+ Groton            ,2012,LargeTown,39896,1.56,0.67
+ Guilford          ,2012,LargeTown,22403,0.58,0.71
+ Haddam            ,2012,Town,8358,0.74,0.63
+ Hamden            ,2012,LargeTown,60863,1.01,0.96
+ Hampton           ,2012,Town,1869,0.54,0.59
+ Hartford          ,2012,City,124893,1.58,0.62
+ Hartland          ,2012,Town,2132,0.56,0.56
+ Harwinton         ,2012,Town,5600,0.61,0.59
+ Hebron            ,2012,Town,9624,0.64,0.54
+ Kent              ,2012,Town,2951,0.85,1.15
+ Killingly         ,2012,Town,17269,1.12,0.97
+ Killingworth      ,2012,Town,6504,0.62,0.57
+ Lebanon           ,2012,Town,7326,0.85,0.81
+ Ledyard           ,2012,Town,15077,0.86,0.55
+ Lisbon            ,2012,Town,4355,0.64,0.8
+ Litchfield        ,2012,Town,8353,0.51,1.05
+ Lyme              ,2012,Town,2403,0.5,1.04
+ Madison           ,2012,Town,18291,0.46,0.8
+ Manchester        ,2012,LargeTown,58289,1.28,0.77
+ Mansfield         ,2012,LargeTown,25648,0.3,0.39
+ Marlborough       ,2012,Town,6433,0.73,0.85
+ Meriden           ,2012,LargeTown,60638,1.29,0.9
+ Middlebury        ,2012,Town,7572,0.71,0.79
+ Middlefield       ,2012,Town,4416,0.41,0.72
+ Middletown        ,2012,LargeTown,47325,1.17,0.88
+ Milford           ,2012,LargeTown,52981,0.83,0.91
+ Monroe            ,2012,Town,19794,0.65,0.67
+ Montville         ,2012,Town,19686,0.89,0.89
+ Morris            ,2012,Town,2356,0.68,0.51
+ Naugatuck         ,2012,LargeTown,31774,1.13,0.79
+ New Britain       ,2012,LargeTown,73153,1.43,0.91
+ New Canaan        ,2012,LargeTown,20110,0.71,0.51
+ New Fairfield     ,2012,Town,14112,0.71,0.55
+ New Hartford      ,2012,Town,6903,0.72,0.75
+ New Haven         ,2012,City,130741,1.46,0.63
+ Newington         ,2012,LargeTown,30602,0.82,0.9
+ New London        ,2012,LargeTown,27707,1.22,0.82
+ New Milford       ,2012,LargeTown,27835,0.86,0.68
+ Newtown           ,2012,LargeTown,28042,0.6,0.78
+ Norfolk           ,2012,Town,1685,0.36,0.71
+ North Branford    ,2012,Town,14379,0.7,0.95
+ North Canaan      ,2012,Town,3259,0.83,1.9
+ North Haven       ,2012,LargeTown,24033,0.75,0.95
+ North Stonington  ,2012,Town,5303,0.85,0.68
+ Norwalk           ,2012,LargeTown,87190,1.35,0.6
+ Norwich           ,2012,LargeTown,40502,1.29,0.9
+ Old Lyme          ,2012,Town,7592,0.67,0.76
+ Old Saybrook      ,2012,Town,10238,0.58,1.27
+ Orange            ,2012,Town,13935,0.68,0.88
+ Oxford            ,2012,Town,12819,0.69,0.75
+ Plainfield        ,2012,Town,15267,1.08,0.87
+ Plainville        ,2012,Town,17819,0.92,0.91
+ Plymouth          ,2012,Town,12089,0.83,0.98
+ Pomfret           ,2012,Town,4217,0.55,0.59
+ Portland          ,2012,Town,9472,1.06,0.79
+ Preston           ,2012,Town,4753,0.82,0.95
+ Prospect          ,2012,Town,9642,0.8,0.86
+ Putnam            ,2012,Town,9491,1.35,0.98
+ Redding           ,2012,Town,9299,0.47,0.88
+ Ridgefield        ,2012,LargeTown,25045,0.61,0.71
+ Rocky Hill        ,2012,Town,19729,0.93,1.22
+ Roxbury           ,2012,Town,2237,0.31,0.72
+ Salem             ,2012,Town,4188,0.88,0.64
+ Salisbury         ,2012,Town,3701,0.46,1.38
+ Scotland          ,2012,Town,1710,0.88,0.23
+ Seymour           ,2012,Town,16561,0.88,0.91
+ Sharon            ,2012,Town,2747,0.47,1.27
+ Shelton           ,2012,LargeTown,40261,0.76,1.03
+ Sherman           ,2012,Town,3648,0.49,0.58
+ Simsbury          ,2012,LargeTown,23620,0.69,0.69
+ Somers            ,2012,Town,11451,0.52,0.56
+ Southbury         ,2012,Town,19877,0.49,1.36
+ Southington       ,2012,LargeTown,43434,0.74,0.83
+ South Windsor     ,2012,LargeTown,25835,0.85,0.81
+ Sprague           ,2012,Town,2988,1.14,0.7
+ Stafford          ,2012,Town,11987,0.79,0.92
+ Stamford          ,2012,City,125109,1.46,0.62
+ Sterling          ,2012,Town,3799,0.92,0.47
+ Stonington        ,2012,Town,18556,0.65,1.53
+ Stratford         ,2012,LargeTown,52077,0.99,1.02
+ Suffield          ,2012,Town,15868,0.47,0.77
+ Thomaston         ,2012,Town,7788,0.69,0.96
+ Thompson          ,2012,Town,9373,0.91,0.83
+ Tolland           ,2012,Town,14964,0.78,0.55
+ Torrington        ,2012,LargeTown,35808,1.04,1.16
+ Trumbull          ,2012,LargeTown,36514,0.74,0.99
+ Union             ,2012,Town,852,0.35,0.82
+ Vernon            ,2012,LargeTown,29122,1.21,0.87
+ Voluntown         ,2012,Town,2611,0.84,0.57
+ Wallingford       ,2012,LargeTown,45179,0.79,1.02
+ Warren            ,2012,Town,1447,0.55,0.35
+ Washington        ,2012,Town,3534,0.42,0.71
+ Waterbury         ,2012,City,109915,1.38,0.91
+ Waterford         ,2012,Town,19533,0.73,1.23
+ Watertown         ,2012,LargeTown,22261,0.73,0.92
+ Westbrook         ,2012,Town,6914,0.62,0.88
+ West Hartford     ,2012,LargeTown,63274,0.93,0.98
+ West Haven        ,2012,LargeTown,55404,1.2,0.8
+ Weston            ,2012,Town,10350,0.61,0.37
+ Westport          ,2012,LargeTown,27068,0.7,0.48
+ Wethersfield      ,2012,LargeTown,26710,0.99,1.03
+ Willington        ,2012,Town,5994,0.8,0.67
+ Wilton            ,2012,Town,18617,0.58,0.79
+ Winchester        ,2012,Town,11071,0.84,1.04
+ Windham           ,2012,LargeTown,25091,1.21,0.93
+ Windsor           ,2012,LargeTown,29140,0.9,0.92
+ Windsor Locks     ,2012,Town,12546,0.9,1.06
+ Wolcott           ,2012,Town,16724,0.74,0.91
+ Woodbridge        ,2012,Town,8965,0.65,1.1
+ Woodbury          ,2012,Town,9848,0.67,0.69
+ Woodstock         ,2012,Town,7904,0.56,0.57
+ Andover           ,2013,Town,3273,0.55,0.4
+ Ansonia           ,2013,Town,19020,1.06,1
+ Ashford           ,2013,Town,4281,1.07,0.63
+ Avon              ,2013,Town,18386,0.64,0.78
+ Barkhamsted       ,2013,Town,3745,0.48,0.59
+ Beacon Falls      ,2013,Town,6052,0.79,0.5
+ Berlin            ,2013,LargeTown,20590,0.74,0.96
+ Bethany           ,2013,Town,5540,0.78,0.65
+ Bethel            ,2013,Town,19264,0.74,0.62
+ Bethlehem         ,2013,Town,3553,0.76,0.84
+ Bloomfield        ,2013,LargeTown,20673,0.7,1.28
+ Bolton            ,2013,Town,4948,0.79,0.73
+ Bozrah            ,2013,Town,2639,0.87,0.68
+ Branford          ,2013,LargeTown,27988,0.89,1.15
+ Bridgeport        ,2013,City,147216,1.41,0.64
+ Bridgewater       ,2013,Town,1696,0.18,0.59
+ Bristol           ,2013,LargeTown,60568,1.03,1
+ Brookfield        ,2013,Town,16860,0.65,0.68
+ Brooklyn          ,2013,Town,8280,0.77,0.86
+ Burlington        ,2013,Town,9494,0.65,0.46
+ Canaan            ,2013,Town,1214,0.33,1.4
+ Canterbury        ,2013,Town,5096,0.86,0.73
+ Canton            ,2013,Town,10357,0.72,0.79
+ Chaplin           ,2013,Town,2276,0.79,0.7
+ Cheshire          ,2013,LargeTown,29150,0.63,0.73
+ Chester           ,2013,Town,4343,0.62,1.15
+ Clinton           ,2013,Town,13180,0.72,0.69
+ Colchester        ,2013,Town,16210,0.68,0.77
+ Colebrook         ,2013,Town,1457,0.55,0.69
+ Columbia          ,2013,Town,5460,0.59,0.84
+ Cornwall          ,2013,Town,1412,0.28,0.85
+ Coventry          ,2013,Town,12411,0.77,0.6
+ Cromwell          ,2013,Town,14178,0.99,0.97
+ Danbury           ,2013,LargeTown,83684,1.31,0.66
+ Darien            ,2013,LargeTown,21330,0.9,0.42
+ Deep River        ,2013,Town,4589,0.59,0.65
+ Derby             ,2013,Town,12801,1.2,1.09
+ Durham            ,2013,Town,7361,0.8,0.65
+ Eastford          ,2013,Town,1736,1.38,0.81
+ East Granby       ,2013,Town,5212,1.04,0.79
+ East Haddam       ,2013,Town,9147,0.79,0.77
+ East Hampton      ,2013,Town,12912,0.91,0.9
+ East Hartford     ,2013,LargeTown,51199,1.29,0.88
+ East Haven        ,2013,LargeTown,29121,0.9,1.04
+ East Lyme         ,2013,Town,18937,0.72,0.85
+ Easton            ,2013,Town,7616,0.55,0.75
+ East Windsor      ,2013,Town,11406,1.09,0.96
+ Ellington         ,2013,Town,15786,0.96,0.62
+ Enfield           ,2013,LargeTown,44748,0.84,0.89
+ Essex             ,2013,Town,6633,0.44,1.13
+ Fairfield         ,2013,LargeTown,60855,0.83,0.82
+ Farmington        ,2013,LargeTown,25613,0.64,0.91
+ Franklin          ,2013,Town,1987,0.65,1.16
+ Glastonbury       ,2013,LargeTown,34768,0.72,0.71
+ Goshen            ,2013,Town,2945,0.58,0.71
+ Granby            ,2013,Town,11323,0.52,0.67
+ Greenwich         ,2013,LargeTown,62396,0.98,0.66
+ Griswold          ,2013,Town,11959,0.98,0.66
+ Groton            ,2013,LargeTown,40176,1.43,0.69
+ Guilford          ,2013,LargeTown,22417,0.54,0.79
+ Haddam            ,2013,Town,8363,0.75,0.6
+ Hamden            ,2013,LargeTown,61607,0.94,0.91
+ Hampton           ,2013,Town,1868,0.43,0.43
+ Hartford          ,2013,City,125017,1.52,0.62
+ Hartland          ,2013,Town,2131,0.61,0.56
+ Harwinton         ,2013,Town,5593,0.72,0.88
+ Hebron            ,2013,Town,9588,0.7,0.5
+ Kent              ,2013,Town,2939,0.51,1.05
+ Killingly         ,2013,Town,17233,1.18,0.89
+ Killingworth      ,2013,Town,6490,0.43,0.65
+ Lebanon           ,2013,Town,7319,0.67,0.74
+ Ledyard           ,2013,Town,15094,1.02,0.63
+ Lisbon            ,2013,Town,4348,0.51,0.92
+ Litchfield        ,2013,Town,8333,0.62,1.28
+ Lyme              ,2013,Town,2401,0.46,1.33
+ Madison           ,2013,Town,18297,0.45,0.85
+ Manchester        ,2013,LargeTown,58211,1.31,0.85
+ Mansfield         ,2013,LargeTown,25774,0.34,0.38
+ Marlborough       ,2013,Town,6431,0.64,0.79
+ Meriden           ,2013,LargeTown,60456,1.26,0.81
+ Middlebury        ,2013,Town,7571,0.7,0.77
+ Middlefield       ,2013,Town,4425,0.77,0.99
+ Middletown        ,2013,LargeTown,47333,1.14,0.93
+ Milford           ,2013,LargeTown,53137,0.8,0.91
+ Monroe            ,2013,Town,19834,0.77,0.75
+ Montville         ,2013,Town,19713,0.74,0.82
+ Morris            ,2013,Town,2345,0.6,0.72
+ Naugatuck         ,2013,LargeTown,31707,1.15,0.83
+ New Britain       ,2013,LargeTown,72939,1.41,0.92
+ New Canaan        ,2013,LargeTown,20194,0.72,0.52
+ New Fairfield     ,2013,Town,14145,0.6,0.57
+ New Hartford      ,2013,Town,6886,0.64,0.46
+ New Haven         ,2013,City,130660,1.44,0.65
+ Newington         ,2013,LargeTown,30756,0.79,0.96
+ New London        ,2013,LargeTown,27545,1.39,0.8
+ New Milford       ,2013,LargeTown,27767,0.92,0.75
+ Newtown           ,2013,LargeTown,28113,0.59,0.63
+ Norfolk           ,2013,Town,1678,0.72,0.77
+ North Branford    ,2013,Town,14353,0.59,0.96
+ North Canaan      ,2013,Town,3241,0.59,1.82
+ North Haven       ,2013,LargeTown,23939,0.73,1.09
+ North Stonington  ,2013,Town,5291,0.76,0.95
+ Norwalk           ,2013,LargeTown,87776,1.31,0.62
+ Norwich           ,2013,LargeTown,40347,1.22,0.92
+ Old Lyme          ,2013,Town,7592,0.38,0.83
+ Old Saybrook      ,2013,Town,10246,0.46,1.5
+ Orange            ,2013,Town,13953,0.73,1.05
+ Oxford            ,2013,Town,12874,0.69,0.55
+ Plainfield        ,2013,Town,15228,1.04,0.91
+ Plainville        ,2013,Town,17820,0.93,0.91
+ Plymouth          ,2013,Town,12047,0.75,0.92
+ Pomfret           ,2013,Town,4198,0.57,0.55
+ Portland          ,2013,Town,9456,0.68,0.99
+ Preston           ,2013,Town,4755,0.72,0.61
+ Prospect          ,2013,Town,9671,0.71,0.64
+ Putnam            ,2013,Town,9465,1.26,0.97
+ Redding           ,2013,Town,9312,0.43,0.95
+ Ridgefield        ,2013,LargeTown,25164,0.7,0.65
+ Rocky Hill        ,2013,Town,19915,0.9,0.96
+ Roxbury           ,2013,Town,2229,0.45,0.58
+ Salem             ,2013,Town,4201,0.6,0.5
+ Salisbury         ,2013,Town,3693,0.49,1.19
+ Scotland          ,2013,Town,1699,1,0.82
+ Seymour           ,2013,Town,16571,1.03,1.01
+ Sharon            ,2013,Town,2743,0.47,1.02
+ Shelton           ,2013,LargeTown,40999,0.84,0.95
+ Sherman           ,2013,Town,3670,0.38,0.54
+ Simsbury          ,2013,LargeTown,23824,0.7,0.66
+ Somers            ,2013,Town,11320,0.43,0.5
+ Southbury         ,2013,Town,19859,0.51,1.64
+ Southington       ,2013,LargeTown,43661,0.76,0.92
+ South Windsor     ,2013,LargeTown,25846,0.79,0.81
+ Sprague           ,2013,Town,2979,1.17,0.44
+ Stafford          ,2013,Town,11928,0.7,0.83
+ Stamford          ,2013,City,126456,1.46,0.59
+ Sterling          ,2013,Town,3780,0.93,0.4
+ Stonington        ,2013,Town,18541,0.59,1.44
+ Stratford         ,2013,LargeTown,52112,1.01,1.1
+ Suffield          ,2013,Town,15788,0.73,0.97
+ Thomaston         ,2013,Town,7761,0.72,0.88
+ Thompson          ,2013,Town,9354,0.86,0.94
+ Tolland           ,2013,Town,14915,0.63,0.64
+ Torrington        ,2013,LargeTown,35611,1.02,1.26
+ Trumbull          ,2013,LargeTown,36571,0.78,0.94
+ Union             ,2013,Town,848,0.71,0.94
+ Vernon            ,2013,LargeTown,29161,1.13,1.03
+ Voluntown         ,2013,Town,2611,0.65,0.61
+ Wallingford       ,2013,LargeTown,45141,0.86,1.12
+ Warren            ,2013,Town,1447,0.35,1.11
+ Washington        ,2013,Town,3526,0.54,1.19
+ Waterbury         ,2013,City,109676,1.46,0.86
+ Waterford         ,2013,Town,19505,0.71,1.22
+ Watertown         ,2013,LargeTown,22228,0.75,0.99
+ Westbrook         ,2013,Town,6906,0.48,0.88
+ West Hartford     ,2013,LargeTown,63371,1,0.89
+ West Haven        ,2013,LargeTown,55046,1.16,0.86
+ Weston            ,2013,Town,10372,0.53,0.36
+ Westport          ,2013,LargeTown,27308,0.63,0.57
+ Wethersfield      ,2013,LargeTown,26510,0.94,0.99
+ Willington        ,2013,Town,5965,0.62,0.35
+ Wilton            ,2013,Town,18657,0.62,0.78
+ Winchester        ,2013,Town,11013,0.84,1.15
+ Windham           ,2013,LargeTown,25213,1.12,0.92
+ Windsor           ,2013,LargeTown,29142,0.94,0.94
+ Windsor Locks     ,2013,Town,12573,1.05,0.91
+ Wolcott           ,2013,Town,16725,0.65,0.85
+ Woodbridge        ,2013,Town,8955,0.61,1.05
+ Woodbury          ,2013,Town,9822,0.59,0.88
+ Woodstock         ,2013,Town,7897,0.87,0.89
+ Andover           ,2014,Town,3272,0.43,0.7
+ Ansonia           ,2014,Town,18959,1.16,0.8
+ Ashford           ,2014,Town,4259,0.94,0.77
+ Avon              ,2014,Town,18421,0.77,0.75
+ Barkhamsted       ,2014,Town,3705,0.49,0.51
+ Beacon Falls      ,2014,Town,6055,0.61,0.55
+ Berlin            ,2014,LargeTown,20610,0.67,1.01
+ Bethany           ,2014,Town,5531,0.58,0.63
+ Bethel            ,2014,Town,19372,0.9,0.73
+ Bethlehem         ,2014,Town,3501,0.71,0.54
+ Bloomfield        ,2014,LargeTown,20819,0.94,1.29
+ Bolton            ,2014,Town,4952,0.75,0.55
+ Bozrah            ,2014,Town,2622,0.88,1.11
+ Branford          ,2014,LargeTown,28225,0.67,1.11
+ Bridgeport        ,2014,City,147612,1.44,0.69
+ Bridgewater       ,2014,Town,1675,0.66,0.84
+ Bristol           ,2014,LargeTown,60570,1.1,1.01
+ Brookfield        ,2014,Town,17055,0.66,0.8
+ Brooklyn          ,2014,Town,8254,0.88,0.96
+ Burlington        ,2014,Town,9576,0.79,0.41
+ Canaan            ,2014,Town,1195,0.75,1.26
+ Canterbury        ,2014,Town,5088,0.96,0.83
+ Canton            ,2014,Town,10345,0.67,0.73
+ Chaplin           ,2014,Town,2262,0.75,1.06
+ Cheshire          ,2014,LargeTown,29250,0.65,0.78
+ Chester           ,2014,Town,4316,0.46,1.2
+ Clinton           ,2014,Town,13129,0.65,0.83
+ Colchester        ,2014,Town,16192,0.82,0.73
+ Colebrook         ,2014,Town,1445,0.55,0.76
+ Columbia          ,2014,Town,5454,0.79,0.79
+ Cornwall          ,2014,Town,1398,0.14,0.57
+ Coventry          ,2014,Town,12419,0.89,0.56
+ Cromwell          ,2014,Town,14113,0.97,1.18
+ Danbury           ,2014,LargeTown,83784,1.23,0.62
+ Darien            ,2014,LargeTown,21689,1.01,0.5
+ Deep River        ,2014,Town,4571,0.55,0.9
+ Derby             ,2014,Town,12768,0.97,0.97
+ Durham            ,2014,Town,7348,0.64,0.54
+ Eastford          ,2014,Town,1734,0.46,1.04
+ East Granby       ,2014,Town,5212,0.83,0.63
+ East Haddam       ,2014,Town,9127,0.9,0.78
+ East Hampton      ,2014,Town,12874,0.79,0.7
+ East Hartford     ,2014,LargeTown,51033,1.32,0.83
+ East Haven        ,2014,LargeTown,29044,0.85,1.07
+ East Lyme         ,2014,Town,19140,0.75,1.03
+ Easton            ,2014,Town,7631,0.52,0.86
+ East Windsor      ,2014,Town,11423,1.01,0.92
+ Ellington         ,2014,Town,15795,0.9,0.6
+ Enfield           ,2014,LargeTown,44626,0.87,0.92
+ Essex             ,2014,Town,6612,0.41,1.12
+ Fairfield         ,2014,LargeTown,61347,0.91,0.77
+ Farmington        ,2014,LargeTown,25627,0.84,0.91
+ Franklin          ,2014,Town,1984,0.91,0.76
+ Glastonbury       ,2014,LargeTown,34754,0.7,0.73
+ Goshen            ,2014,Town,2914,0.45,1.03
+ Granby            ,2014,Town,11310,0.64,0.84
+ Greenwich         ,2014,LargeTown,62610,0.95,0.71
+ Griswold          ,2014,Town,11916,0.86,0.76
+ Groton            ,2014,LargeTown,40167,1.4,0.73
+ Guilford          ,2014,LargeTown,22413,0.55,0.74
+ Haddam            ,2014,Town,8333,0.8,0.76
+ Hamden            ,2014,LargeTown,61422,0.89,0.92
+ Hampton           ,2014,Town,1859,0.81,0.59
+ Hartford          ,2014,City,124705,1.5,0.63
+ Hartland          ,2014,Town,2129,0.85,0.61
+ Harwinton         ,2014,Town,5531,0.43,0.81
+ Hebron            ,2014,Town,9564,0.69,0.51
+ Kent              ,2014,Town,2910,0.62,1.34
+ Killingly         ,2014,Town,17172,1.1,0.94
+ Killingworth      ,2014,Town,6490,0.48,0.66
+ Lebanon           ,2014,Town,7309,0.78,0.63
+ Ledyard           ,2014,Town,15121,1.1,0.64
+ Lisbon            ,2014,Town,4342,0.62,0.76
+ Litchfield        ,2014,Town,8264,0.64,0.9
+ Lyme              ,2014,Town,2389,0.59,0.88
+ Madison           ,2014,Town,18259,0.54,0.87
+ Manchester        ,2014,LargeTown,58106,1.35,0.88
+ Mansfield         ,2014,LargeTown,25977,0.29,0.34
+ Marlborough       ,2014,Town,6430,0.76,0.86
+ Meriden           ,2014,LargeTown,60293,1.23,0.89
+ Middlebury        ,2014,Town,7591,0.8,0.91
+ Middlefield       ,2014,Town,4424,0.63,0.75
+ Middletown        ,2014,LargeTown,47043,1.11,0.85
+ Milford           ,2014,LargeTown,53358,0.9,0.99
+ Monroe            ,2014,Town,19867,0.74,0.57
+ Montville         ,2014,Town,19635,0.8,0.89
+ Morris            ,2014,Town,2314,0.65,0.99
+ Naugatuck         ,2014,LargeTown,31659,1.09,0.76
+ New Britain       ,2014,LargeTown,72878,1.36,0.89
+ New Canaan        ,2014,LargeTown,20314,0.7,0.58
+ New Fairfield     ,2014,Town,14149,0.62,0.57
+ New Hartford      ,2014,Town,6812,0.69,0.65
+ New Haven         ,2014,City,130282,1.4,0.63
+ Newington         ,2014,LargeTown,30685,0.94,0.96
+ New London        ,2014,LargeTown,27374,1.26,0.78
+ New Milford       ,2014,LargeTown,27474,0.86,0.72
+ Newtown           ,2014,LargeTown,28152,0.62,0.63
+ Norfolk           ,2014,Town,1655,0.3,0.91
+ North Branford    ,2014,Town,14322,0.75,0.94
+ North Canaan      ,2014,Town,3214,0.59,1.71
+ North Haven       ,2014,LargeTown,23909,0.77,0.92
+ North Stonington  ,2014,Town,5288,0.93,0.74
+ Norwalk           ,2014,LargeTown,88145,1.3,0.6
+ Norwich           ,2014,LargeTown,40178,1.26,0.86
+ Old Lyme          ,2014,Town,7575,0.34,0.77
+ Old Saybrook      ,2014,Town,10217,0.64,1.34
+ Orange            ,2014,Town,13955,0.74,1.02
+ Oxford            ,2014,Town,12914,0.66,0.6
+ Plainfield        ,2014,Town,15135,0.97,0.95
+ Plainville        ,2014,Town,17801,0.8,0.85
+ Plymouth          ,2014,Town,11914,0.65,0.83
+ Pomfret           ,2014,Town,4179,0.72,0.74
+ Portland          ,2014,Town,9444,1.06,0.88
+ Preston           ,2014,Town,4748,0.74,0.76
+ Prospect          ,2014,Town,9723,0.79,0.96
+ Putnam            ,2014,Town,9416,1.01,1.06
+ Redding           ,2014,Town,9309,0.6,0.83
+ Ridgefield        ,2014,LargeTown,25205,0.56,0.62
+ Rocky Hill        ,2014,LargeTown,20094,1.07,1.18
+ Roxbury           ,2014,Town,2201,0.36,0.59
+ Salem             ,2014,Town,4184,1.1,0.33
+ Salisbury         ,2014,Town,3665,0.57,1.8
+ Scotland          ,2014,Town,1694,0.59,0.3
+ Seymour           ,2014,Town,16537,0.89,0.89
+ Sharon            ,2014,Town,2725,0.48,1.47
+ Shelton           ,2014,LargeTown,41295,0.78,1.02
+ Sherman           ,2014,Town,3671,0.41,0.79
+ Simsbury          ,2014,LargeTown,23975,0.75,0.76
+ Somers            ,2014,Town,11303,0.58,0.69
+ Southbury         ,2014,Town,19881,0.44,1.64
+ Southington       ,2014,LargeTown,43815,0.83,1
+ South Windsor     ,2014,LargeTown,25823,0.77,0.85
+ Sprague           ,2014,Town,2980,1.11,0.54
+ Stafford          ,2014,Town,11881,0.88,0.81
+ Stamford          ,2014,City,128278,1.44,0.62
+ Sterling          ,2014,Town,3773,0.85,0.48
+ Stonington        ,2014,Town,18512,0.83,1.56
+ Stratford         ,2014,LargeTown,52734,0.93,0.96
+ Suffield          ,2014,Town,15814,0.7,0.97
+ Thomaston         ,2014,Town,7683,0.79,0.85
+ Thompson          ,2014,Town,9308,0.76,0.99
+ Tolland           ,2014,Town,14872,0.68,0.65
+ Torrington        ,2014,LargeTown,35190,1.03,1.25
+ Trumbull          ,2014,LargeTown,36578,0.87,1.04
+ Union             ,2014,Town,846,0.59,0.35
+ Vernon            ,2014,LargeTown,29098,1.25,1
+ Voluntown         ,2014,Town,2593,0.54,0.66
+ Wallingford       ,2014,LargeTown,45074,0.8,1.16
+ Warren            ,2014,Town,1427,0.56,0.98
+ Washington        ,2014,Town,3487,0.54,0.66
+ Waterbury         ,2014,City,109307,1.41,0.88
+ Waterford         ,2014,Town,19427,0.6,1.34
+ Watertown         ,2014,LargeTown,22046,0.84,1.08
+ Westbrook         ,2014,Town,6902,0.57,1.03
+ West Hartford     ,2014,LargeTown,63324,0.96,0.97
+ West Haven        ,2014,LargeTown,54905,1.12,0.87
+ Weston            ,2014,Town,10388,0.68,0.4
+ Westport          ,2014,LargeTown,27561,0.63,0.67
+ Wethersfield      ,2014,LargeTown,26446,0.81,0.92
+ Willington        ,2014,Town,5934,0.81,0.66
+ Wilton            ,2014,Town,18692,0.67,0.8
+ Winchester        ,2014,Town,10929,0.85,0.98
+ Windham           ,2014,LargeTown,25005,1.02,0.89
+ Windsor           ,2014,LargeTown,29069,0.96,1
+ Windsor Locks     ,2014,Town,12565,0.99,1.06
+ Wolcott           ,2014,Town,16716,0.67,0.91
+ Woodbridge        ,2014,Town,8925,0.64,1.06
+ Woodbury          ,2014,Town,9719,0.52,0.64
+ Woodstock         ,2014,Town,7860,0.81,0.71
+ Andover           ,2015,Town,3262,0.67,0.74
+ Ansonia           ,2015,Town,18854,1.11,1
+ Ashford           ,2015,Town,4251,1.01,0.75
+ Avon              ,2015,Town,18414,0.77,0.89
+ Barkhamsted       ,2015,Town,3685,0.81,0.62
+ Beacon Falls      ,2015,Town,6081,0.67,0.72
+ Berlin            ,2015,LargeTown,20560,0.62,0.99
+ Bethany           ,2015,Town,5510,0.76,0.56
+ Bethel            ,2015,Town,19529,0.93,0.8
+ Bethlehem         ,2015,Town,3473,0.66,0.49
+ Bloomfield        ,2015,LargeTown,20749,0.75,1.19
+ Bolton            ,2015,Town,4947,0.75,0.44
+ Bozrah            ,2015,Town,2603,0.81,1.19
+ Branford          ,2015,LargeTown,28145,0.78,1.18
+ Bridgeport        ,2015,City,147629,1.39,0.66
+ Bridgewater       ,2015,Town,1659,0.18,1.02
+ Bristol           ,2015,LargeTown,60452,1.07,0.98
+ Brookfield        ,2015,Town,17143,0.8,0.57
+ Brooklyn          ,2015,Town,8259,0.62,0.96
+ Burlington        ,2015,Town,9623,0.71,0.55
+ Canaan            ,2015,Town,1185,0.42,1.18
+ Canterbury        ,2015,Town,5089,0.67,0.77
+ Canton            ,2015,Town,10330,0.51,0.63
+ Chaplin           ,2015,Town,2255,0.31,1.02
+ Cheshire          ,2015,LargeTown,29262,0.57,0.89
+ Chester           ,2015,Town,4277,0.56,1.15
+ Clinton           ,2015,Town,13047,0.72,0.91
+ Colchester        ,2015,Town,16130,0.79,0.69
+ Colebrook         ,2015,Town,1436,0.49,0.77
+ Columbia          ,2015,Town,5434,0.72,0.63
+ Cornwall          ,2015,Town,1387,0.29,0.94
+ Coventry          ,2015,Town,12438,0.99,0.55
+ Cromwell          ,2015,Town,14034,0.97,1.05
+ Danbury           ,2015,LargeTown,84657,1.26,0.68
+ Darien            ,2015,LargeTown,21787,0.96,0.54
+ Deep River        ,2015,Town,4516,0.71,0.82
+ Derby             ,2015,Town,12700,1.02,1.02
+ Durham            ,2015,Town,7301,0.6,0.7
+ Eastford          ,2015,Town,1750,0.8,0.57
+ East Granby       ,2015,Town,5199,0.79,0.58
+ East Haddam       ,2015,Town,9081,0.91,0.66
+ East Hampton      ,2015,Town,12858,0.77,0.81
+ East Hartford     ,2015,LargeTown,50821,1.25,0.88
+ East Haven        ,2015,LargeTown,28935,0.96,1.15
+ East Lyme         ,2015,Town,19343,0.59,0.89
+ Easton            ,2015,Town,7625,0.62,0.6
+ East Windsor      ,2015,Town,11400,0.92,1.04
+ Ellington         ,2015,Town,15916,0.86,0.58
+ Enfield           ,2015,LargeTown,44323,0.86,0.9
+ Essex             ,2015,Town,6586,0.55,1.23
+ Fairfield         ,2015,LargeTown,61523,0.83,0.78
+ Farmington        ,2015,LargeTown,25629,0.8,0.97
+ Franklin          ,2015,Town,1975,0.66,0.41
+ Glastonbury       ,2015,LargeTown,34678,0.71,0.87
+ Goshen            ,2015,Town,2904,0.52,0.86
+ Granby            ,2015,Town,11298,0.73,0.75
+ Greenwich         ,2015,LargeTown,62695,0.89,0.72
+ Griswold          ,2015,Town,11830,0.85,0.74
+ Groton            ,2015,LargeTown,39692,1.27,0.71
+ Guilford          ,2015,LargeTown,22350,0.55,0.8
+ Haddam            ,2015,Town,8292,0.8,0.82
+ Hamden            ,2015,LargeTown,61218,0.92,1.01
+ Hampton           ,2015,Town,1849,0.59,0.65
+ Hartford          ,2015,City,124006,1.48,0.72
+ Hartland          ,2015,Town,2127,0.47,0.61
+ Harwinton         ,2015,Town,5493,0.64,0.66
+ Hebron            ,2015,Town,9552,0.57,0.49
+ Kent              ,2015,Town,2869,0.45,1.05
+ Killingly         ,2015,Town,17131,1.08,1.22
+ Killingworth      ,2015,Town,6455,0.81,0.76
+ Lebanon           ,2015,Town,7259,0.7,0.81
+ Ledyard           ,2015,Town,15025,1.02,0.74
+ Lisbon            ,2015,Town,4310,0.74,0.86
+ Litchfield        ,2015,Town,8212,0.63,1.24
+ Lyme              ,2015,Town,2374,0.72,1.1
+ Madison           ,2015,Town,18223,0.52,0.82
+ Manchester        ,2015,LargeTown,58007,1.34,0.83
+ Mansfield         ,2015,LargeTown,26043,0.33,0.39
+ Marlborough       ,2015,Town,6430,0.67,0.64
+ Meriden           ,2015,LargeTown,59988,1.21,0.95
+ Middlebury        ,2015,Town,7634,0.67,1.11
+ Middlefield       ,2015,Town,4407,0.7,0.98
+ Middletown        ,2015,LargeTown,46756,1.06,0.92
+ Milford           ,2015,LargeTown,53592,0.79,0.94
+ Monroe            ,2015,Town,19833,0.72,0.61
+ Montville         ,2015,Town,19396,0.96,0.87
+ Morris            ,2015,Town,2293,0.44,1.09
+ Naugatuck         ,2015,LargeTown,31538,1.06,0.93
+ New Britain       ,2015,LargeTown,72808,1.43,0.92
+ New Canaan        ,2015,LargeTown,20387,0.66,0.62
+ New Fairfield     ,2015,Town,14126,0.67,0.59
+ New Hartford      ,2015,Town,6764,0.55,0.68
+ New Haven         ,2015,City,130322,1.34,0.62
+ Newington         ,2015,LargeTown,30604,0.86,1.05
+ New London        ,2015,LargeTown,27179,1.23,0.82
+ New Milford       ,2015,LargeTown,27276,0.92,0.74
+ Newtown           ,2015,LargeTown,28022,0.71,0.68
+ Norfolk           ,2015,Town,1643,0.55,1.22
+ North Branford    ,2015,Town,14263,0.73,0.98
+ North Canaan      ,2015,Town,3194,0.94,1.94
+ North Haven       ,2015,LargeTown,23828,0.79,1.05
+ North Stonington  ,2015,Town,5256,0.57,0.7
+ Norwalk           ,2015,LargeTown,88485,1.3,0.64
+ Norwich           ,2015,LargeTown,39899,1.28,0.89
+ Old Lyme          ,2015,Town,7521,0.47,1.01
+ Old Saybrook      ,2015,Town,10160,0.28,1.26
+ Orange            ,2015,Town,13944,0.7,0.83
+ Oxford            ,2015,Town,13013,0.76,0.64
+ Plainfield        ,2015,Town,15077,1.01,0.85
+ Plainville        ,2015,Town,17773,0.87,0.88
+ Plymouth          ,2015,Town,11813,0.87,0.91
+ Pomfret           ,2015,Town,4163,0.43,0.6
+ Portland          ,2015,Town,9391,0.79,0.84
+ Preston           ,2015,Town,4707,0.66,1.08
+ Prospect          ,2015,Town,9739,0.69,1.11
+ Putnam            ,2015,Town,9372,1.15,1.2
+ Redding           ,2015,Town,9293,0.62,0.82
+ Ridgefield        ,2015,LargeTown,25244,0.61,0.61
+ Rocky Hill        ,2015,LargeTown,20021,0.98,1.08
+ Roxbury           ,2015,Town,2187,0.5,0.59
+ Salem             ,2015,Town,4183,0.81,0.41
+ Salisbury         ,2015,Town,3638,0.66,1.32
+ Scotland          ,2015,Town,1686,0.83,0.47
+ Seymour           ,2015,Town,16475,1.1,1.05
+ Sharon            ,2015,Town,2706,0.22,1.22
+ Shelton           ,2015,LargeTown,41296,0.77,0.95
+ Sherman           ,2015,Town,3668,0.55,0.71
+ Simsbury          ,2015,LargeTown,24348,0.8,0.79
+ Somers            ,2015,Town,11432,0.52,0.67
+ Southbury         ,2015,Town,19675,0.47,1.74
+ Southington       ,2015,LargeTown,43817,0.87,0.95
+ South Windsor     ,2015,LargeTown,25789,0.81,0.85
+ Sprague           ,2015,Town,2951,1.25,0.81
+ Stafford          ,2015,Town,11837,0.92,0.93
+ Stamford          ,2015,City,128874,1.45,0.64
+ Sterling          ,2015,Town,3764,0.82,0.69
+ Stonington        ,2015,Town,18370,0.61,1.54
+ Stratford         ,2015,LargeTown,52609,0.95,1.08
+ Suffield          ,2015,Town,15662,0.68,0.84
+ Thomaston         ,2015,Town,7621,0.76,0.93
+ Thompson          ,2015,Town,9290,0.81,0.86
+ Tolland           ,2015,Town,14849,0.7,0.73
+ Torrington        ,2015,LargeTown,34906,1.05,1.15
+ Trumbull          ,2015,LargeTown,36628,0.88,1.05
+ Union             ,2015,Town,843,0.24,0.95
+ Vernon            ,2015,LargeTown,28959,1.14,0.92
+ Voluntown         ,2015,Town,2579,0.85,0.74
+ Wallingford       ,2015,LargeTown,44893,0.87,1.19
+ Warren            ,2015,Town,1417,0.35,0.78
+ Washington        ,2015,Town,3466,0.66,0.63
+ Waterbury         ,2015,City,108802,1.48,0.93
+ Waterford         ,2015,Town,19281,0.69,1.23
+ Watertown         ,2015,LargeTown,21911,0.78,0.99
+ Westbrook         ,2015,Town,6902,0.57,1.06
+ West Hartford     ,2015,LargeTown,63053,0.91,1.02
+ West Haven        ,2015,LargeTown,54927,1.13,0.81
+ Weston            ,2015,Town,10387,0.6,0.32
+ Westport          ,2015,LargeTown,27899,0.56,0.61
+ Wethersfield      ,2015,LargeTown,26367,0.86,1.05
+ Willington        ,2015,Town,5908,0.52,0.74
+ Wilton            ,2015,Town,18714,0.73,0.79
+ Winchester        ,2015,Town,10829,0.78,1.16
+ Windham           ,2015,LargeTown,24799,1.16,0.87
+ Windsor           ,2015,LargeTown,29016,0.85,0.84
+ Windsor Locks     ,2015,Town,12537,0.78,1.09
+ Wolcott           ,2015,Town,16673,0.64,0.93
+ Woodbridge        ,2015,Town,8886,0.69,1.14
+ Woodbury          ,2015,Town,9636,0.68,0.84
+ Woodstock         ,2015,Town,7838,0.73,0.73

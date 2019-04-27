@@ -1,0 +1,1015 @@
+Year,Town,medprice
+2010,Andover,220000
+2010,Ansonia,180000
+2010,Ashford,195300
+2010,Avon,425000
+2010,Barkhamsted,229000
+2010,Beacon Falls,215487.5
+2010,Berlin,244400
+2010,Bethany,297450
+2010,Bethel,294500
+2010,Bethlehem,284250
+2010,Bloomfield,212000
+2010,Bolton,231950
+2010,Bozrah,185000
+2010,Branford,270000
+2010,Bridgeport,127200
+2010,Bridgewater,542000
+2010,Bristol,175000
+2010,Brookfield,375000
+2010,Brooklyn,207500
+2010,Burlington,343500
+2010,Canaan,211000
+2010,Canterbury,170000
+2010,Canton,325000
+2010,Chaplin,170000
+2010,Cheshire,310725
+2010,Chester,263000
+2010,Clinton,251000
+2010,Colchester,229850
+2010,Colebrook,206000
+2010,Columbia,238000
+2010,Cornwall,450000
+2010,Coventry,222000
+2010,Cromwell,255000
+2010,Danbury,240000
+2010,Darien,1300000
+2010,Deep River,256400
+2010,Derby,180500
+2010,Durham,317000
+2010,East Granby,249850
+2010,East Haddam,250000
+2010,East Hampton,232500
+2010,East Hartford,145550
+2010,East Haven,178000
+2010,East Lyme,284000
+2010,East Windsor,171500
+2010,Eastford,130000
+2010,Easton,575250
+2010,Ellington,278000
+2010,Enfield,175000
+2010,Essex,350000
+2010,Fairfield,507000
+2010,Farmington,350000
+2010,Franklin,158500
+2010,Glastonbury,350000
+2010,Goshen,250000
+2010,Granby,270000
+2010,Greenwich,1542500
+2010,Griswold,148250
+2010,Groton,217500
+2010,Guilford,377750
+2010,Haddam,263000
+2010,Hamden,214000
+2010,Hampton,188000
+2010,Hartford,126000
+2010,Hartland,195000
+2010,Harwinton,238000
+2010,Hebron,265000
+2010,Kent,386500
+2010,Killingly,147000
+2010,Killingworth,281000
+2010,Lebanon,219450
+2010,Ledyard,212250
+2010,Lisbon,194900
+2010,Litchfield,252000
+2010,Lyme,499000
+2010,Madison,405000
+2010,Manchester,180000
+2010,Mansfield,216900
+2010,Marlborough,250000
+2010,Meriden,157000
+2010,Middlebury,280000
+2010,Middlefield,256000
+2010,Middletown,207000
+2010,Milford,270000
+2010,Monroe,385000
+2010,Montville,179900
+2010,Morris,257500
+2010,Naugatuck,170000
+2010,New Britain,129900
+2010,New Canaan,1400000
+2010,New Fairfield,315000
+2010,New Hartford,234900
+2010,New Haven,130000
+2010,New London,129900
+2010,New Milford,274500
+2010,Newington,220000
+2010,Newtown,412000
+2010,Norfolk,170625
+2010,North Branford,260000
+2010,North Canaan,164000
+2010,North Haven,250000
+2010,North Stoningto,205700
+2010,Norwalk,420750
+2010,Norwich,127475
+2010,Old Lyme,314750
+2010,Old Saybrook,295750
+2010,Orange,350000
+2010,Oxford,327500
+2010,Plainfield,140000
+2010,Plainville,191000
+2010,Plymouth,174000
+2010,Pomfret,254000
+2010,Portland,228300
+2010,Preston,219000
+2010,Prospect,252500
+2010,Putnam,140000
+2010,Redding,579000
+2010,Ridgefield,695000
+2010,Rocky Hill,266500
+2010,Roxbury,858000
+2010,Salem,250950
+2010,Salisbury,574500
+2010,Scotland,168000
+2010,Seymour,237500
+2010,Sharon,425000
+2010,Shelton,299999
+2010,Sherman,372500
+2010,Simsbury,313950
+2010,Somers,289000
+2010,South Windsor,269900
+2010,Southbury,366250
+2010,Southington,255000
+2010,Sprague,198750
+2010,Stafford,164950
+2010,Stamford,539999
+2010,Sterling,150500
+2010,Stonington,277250
+2010,Stratford,226000
+2010,Suffield,269900
+2010,Thomaston,179925
+2010,Thompson,182500
+2010,Tolland,308764
+2010,Torrington,145000
+2010,Trumbull,360000
+2010,Union,254750
+2010,Vernon,185000
+2010,Voluntown,164596
+2010,Wallingford,240000
+2010,Warren,447500
+2010,Washington,660000
+2010,Waterbury,90000
+2010,Waterford,227000
+2010,Watertown,197750
+2010,West Hartford,295000
+2010,West Haven,171400
+2010,Westbrook,292500
+2010,Weston,835000
+2010,Westport,1052500
+2010,Wethersfield,235000
+2010,Willington,230458.5
+2010,Wilton,782500
+2010,Winchester,162000
+2010,Windham,141250.5
+2010,Windsor,213500
+2010,Windsor Locks,185000
+2010,Wolcott,185000
+2010,Woodbridge,453900
+2010,Woodbury,350000
+2010,Woodstock,220000
+2011,Andover,196500
+2011,Ansonia,165451
+2011,Ashford,145000
+2011,Avon,442625
+2011,Barkhamsted,235000
+2011,Beacon Falls,140500.5
+2011,Berlin,245000
+2011,Bethany,295000
+2011,Bethel,273000
+2011,Bethlehem,250000
+2011,Bloomfield,192000
+2011,Bolton,265000
+2011,Bozrah,218500
+2011,Branford,265000
+2011,Bridgeport,115000
+2011,Bridgewater,647500
+2011,Bristol,162200
+2011,Brookfield,370000
+2011,Brooklyn,180000
+2011,Burlington,330000
+2011,Canaan,232500
+2011,Canterbury,173500
+2011,Canton,311950
+2011,Chaplin,151450
+2011,Cheshire,330000
+2011,Chester,231250
+2011,Clinton,246666
+2011,Colchester,224000
+2011,Colebrook,450000
+2011,Columbia,224375
+2011,Cornwall,375000
+2011,Coventry,215000
+2011,Cromwell,268575
+2011,Danbury,242250
+2011,Darien,1425000
+2011,Deep River,200000
+2011,Derby,169500
+2011,Durham,319500
+2011,East Granby,233000
+2011,East Haddam,240000
+2011,East Hampton,210000
+2011,East Hartford,136000
+2011,East Haven,197000
+2011,East Lyme,250000
+2011,East Windsor,201500
+2011,Eastford,145500
+2011,Easton,592000
+2011,Ellington,250000
+2011,Enfield,163000
+2011,Essex,367500
+2011,Fairfield,442500
+2011,Farmington,329000
+2011,Franklin,167500
+2011,Glastonbury,350000
+2011,Goshen,320000
+2011,Granby,285000
+2011,Greenwich,1495000
+2011,Griswold,149950
+2011,Groton,199900
+2011,Guilford,372000
+2011,Haddam,325000
+2011,Hamden,190000
+2011,Hampton,156500
+2011,Hartford,121000
+2011,Hartland,222500
+2011,Harwinton,215125
+2011,Hebron,250000
+2011,Kent,315000
+2011,Killingly,130500
+2011,Killingworth,260900
+2011,Lebanon,199900
+2011,Ledyard,207000
+2011,Lisbon,178500
+2011,Litchfield,224375
+2011,Lyme,367500
+2011,Madison,427000
+2011,Manchester,172500
+2011,Mansfield,172207
+2011,Marlborough,257500
+2011,Meriden,146750
+2011,Middlebury,280000
+2011,Middlefield,227450
+2011,Middletown,197000
+2011,Milford,250000
+2011,Monroe,363000
+2011,Montville,168000
+2011,Morris,250000
+2011,Naugatuck,158900
+2011,New Britain,122250
+2011,New Canaan,1375000
+2011,New Fairfield,330000
+2011,New Hartford,250000
+2011,New Haven,133000
+2011,New London,135000
+2011,New Milford,255000
+2011,Newington,199900
+2011,Newtown,351250
+2011,Norfolk,254000
+2011,North Branford,242000
+2011,North Canaan,155000
+2011,North Haven,250000
+2011,North Stoningto,198000
+2011,Norwalk,380009
+2011,Norwich,109750
+2011,Old Lyme,335000
+2011,Old Saybrook,368870
+2011,Orange,336000
+2011,Oxford,293000
+2011,Plainfield,145000
+2011,Plainville,170000
+2011,Plymouth,166500
+2011,Pomfret,152500
+2011,Portland,190000
+2011,Preston,185000
+2011,Prospect,225000
+2011,Putnam,130000
+2011,Redding,550000
+2011,Ridgefield,483750
+2011,Rocky Hill,255000
+2011,Roxbury,542500
+2011,Salem,275625
+2011,Salisbury,326500
+2011,Scotland,185000
+2011,Seymour,212500
+2011,Sharon,247500
+2011,Shelton,280000
+2011,Sherman,362000
+2011,Simsbury,320000
+2011,Somers,277250
+2011,South Windsor,252500
+2011,Southbury,323750
+2011,Southington,240000
+2011,Sprague,120000
+2011,Stafford,165000
+2011,Stamford,480000
+2011,Sterling,139450
+2011,Stonington,248500
+2011,Stratford,210000
+2011,Suffield,276000
+2011,Thomaston,182500
+2011,Thompson,156000
+2011,Tolland,253000
+2011,Torrington,135500
+2011,Trumbull,358000
+2011,Union,156000
+2011,Vernon,155000
+2011,Voluntown,150500
+2011,Wallingford,210000
+2011,Warren,430556
+2011,Washington,532500
+2011,Waterbury,76950
+2011,Waterford,190000
+2011,Watertown,216500
+2011,West Hartford,307500
+2011,West Haven,152549.5
+2011,Westbrook,230000
+2011,Weston,769000
+2011,Westport,977500
+2011,Wethersfield,230000
+2011,Willington,239000
+2011,Wilton,822500
+2011,Winchester,134000
+2011,Windham,122603.5
+2011,Windsor,185000
+2011,Windsor Locks,156900
+2011,Wolcott,210000
+2011,Woodbridge,365500
+2011,Woodbury,372750
+2011,Woodstock,195000
+2012,Andover,240000
+2012,Ansonia,147000
+2012,Ashford,137000
+2012,Avon,440000
+2012,Barkhamsted,204000
+2012,Beacon Falls,203500
+2012,Berlin,230000
+2012,Bethany,309000
+2012,Bethel,269000
+2012,Bethlehem,285000
+2012,Bloomfield,178000
+2012,Bolton,217000
+2012,Bozrah,186000
+2012,Branford,257500
+2012,Bridgeport,120000
+2012,Bridgewater,512000
+2012,Bristol,158500
+2012,Brookfield,337450
+2012,Brooklyn,187450
+2012,Burlington,350000
+2012,Canaan,205000
+2012,Canterbury,180000
+2012,Canton,278000
+2012,Chaplin,149500
+2012,Cheshire,307500
+2012,Chester,248500
+2012,Clinton,255000
+2012,Colchester,225000
+2012,Colebrook,215000
+2012,Columbia,225000
+2012,Cornwall,500000
+2012,Coventry,199900
+2012,Cromwell,263000
+2012,Danbury,235000
+2012,Darien,1212500
+2012,Deep River,247000
+2012,Derby,177250
+2012,Durham,249500
+2012,East Granby,240000
+2012,East Haddam,235000
+2012,East Hampton,210000
+2012,East Hartford,120500
+2012,East Haven,175000
+2012,East Lyme,260000
+2012,East Windsor,176000
+2012,Eastford,142000
+2012,Easton,551750
+2012,Ellington,230000
+2012,Enfield,159950
+2012,Essex,361250
+2012,Fairfield,520000
+2012,Farmington,345000
+2012,Franklin,185000
+2012,Glastonbury,333000
+2012,Goshen,277500
+2012,Granby,272151
+2012,Greenwich,1500000
+2012,Griswold,133800
+2012,Groton,235000
+2012,Guilford,368000
+2012,Haddam,260000
+2012,Hamden,185000
+2012,Hampton,188500
+2012,Hartford,137000
+2012,Hartland,210000
+2012,Harwinton,217500
+2012,Hebron,273750
+2012,Kent,315000
+2012,Killingly,144650
+2012,Killingworth,246250
+2012,Lebanon,187000
+2012,Ledyard,230000
+2012,Lisbon,169900
+2012,Litchfield,245000
+2012,Lyme,313000
+2012,Madison,419500
+2012,Manchester,169900
+2012,Mansfield,184000
+2012,Marlborough,205000
+2012,Meriden,144950
+2012,Middlebury,269500
+2012,Middlefield,202500
+2012,Middletown,190500
+2012,Milford,255000
+2012,Monroe,350000
+2012,Montville,147500
+2012,Morris,205000
+2012,Naugatuck,145000
+2012,New Britain,113000
+2012,New Canaan,1302500
+2012,New Fairfield,281250
+2012,New Hartford,260000
+2012,New Haven,135000
+2012,New London,127500
+2012,New Milford,254000
+2012,Newington,207000
+2012,Newtown,380000
+2012,Norfolk,160000
+2012,North Branford,240000
+2012,North Canaan,153600
+2012,North Haven,258500
+2012,North Stoningto,202500
+2012,Norwalk,387500
+2012,Norwich,94000
+2012,Old Lyme,295000
+2012,Old Saybrook,321250
+2012,Orange,332000
+2012,Oxford,307500
+2012,Plainfield,129900
+2012,Plainville,169400
+2012,Plymouth,139000
+2012,Pomfret,209000
+2012,Portland,203950
+2012,Preston,226000
+2012,Prospect,245000
+2012,Putnam,119900
+2012,Redding,562000
+2012,Ridgefield,607500
+2012,Rocky Hill,251250
+2012,Roxbury,822500
+2012,Salem,282500
+2012,Salisbury,342500
+2012,Scotland,177500
+2012,Seymour,194000
+2012,Sharon,390000
+2012,Shelton,275000
+2012,Sherman,350000
+2012,Simsbury,312500
+2012,Somers,280000
+2012,South Windsor,256000
+2012,Southbury,300000
+2012,Southington,283750
+2012,Sprague,134200
+2012,Stafford,163000
+2012,Stamford,504000
+2012,Sterling,125300
+2012,Stonington,305000
+2012,Stratford,195000
+2012,Suffield,261500
+2012,Thomaston,206325
+2012,Thompson,147500
+2012,Tolland,251250
+2012,Torrington,125000
+2012,Trumbull,310750
+2012,Union,224500
+2012,Vernon,180000
+2012,Voluntown,139900
+2012,Wallingford,220000
+2012,Warren,297500
+2012,Washington,512500
+2012,Waterbury,82000
+2012,Waterford,207250
+2012,Watertown,179500
+2012,West Hartford,290000
+2012,West Haven,160000
+2012,Westbrook,209000
+2012,Weston,780000
+2012,Westport,1160000
+2012,Wethersfield,222250
+2012,Willington,201000
+2012,Wilton,747500
+2012,Winchester,132000
+2012,Windham,90000
+2012,Windsor,175000
+2012,Windsor Locks,165000
+2012,Wolcott,204000
+2012,Woodbridge,406000
+2012,Woodbury,338000
+2012,Woodstock,269000
+2013,Andover,255000
+2013,Ansonia,169902
+2013,Ashford,160000
+2013,Avon,460000
+2013,Barkhamsted,213015
+2013,Beacon Falls,188000
+2013,Berlin,258000
+2013,Bethany,321000
+2013,Bethel,265450
+2013,Bethlehem,260000
+2013,Bloomfield,183500
+2013,Bolton,256500
+2013,Bozrah,204000
+2013,Branford,281250
+2013,Bridgeport,118000
+2013,Bridgewater,306500
+2013,Bristol,153446
+2013,Brookfield,330500
+2013,Brooklyn,198979
+2013,Burlington,321000
+2013,Canaan,156000
+2013,Canterbury,195000
+2013,Canton,307000
+2013,Chaplin,179000
+2013,Cheshire,285000
+2013,Chester,289950
+2013,Clinton,257500
+2013,Colchester,227000
+2013,Colebrook,249500
+2013,Columbia,210000
+2013,Cornwall,350000
+2013,Coventry,190000
+2013,Cromwell,218000
+2013,Danbury,244000
+2013,Darien,1355000
+2013,Deep River,242000
+2013,Derby,141250
+2013,Durham,284500
+2013,East Granby,251900
+2013,East Haddam,196175
+2013,East Hampton,215000
+2013,East Hartford,125000
+2013,East Haven,160000
+2013,East Lyme,267750
+2013,East Windsor,184450
+2013,Eastford,217000
+2013,Easton,570000
+2013,Ellington,240000
+2013,Enfield,158000
+2013,Essex,377000
+2013,Fairfield,535000
+2013,Farmington,257000
+2013,Franklin,169000
+2013,Glastonbury,338000
+2013,Goshen,275000
+2013,Granby,278000
+2013,Greenwich,1600000
+2013,Griswold,152500
+2013,Groton,199000
+2013,Guilford,380000
+2013,Haddam,266000
+2013,Hamden,195000
+2013,Hampton,180000
+2013,Hartford,121000
+2013,Hartland,187500
+2013,Harwinton,195000
+2013,Hebron,270000
+2013,Kent,272450
+2013,Killingly,135875
+2013,Killingworth,225000
+2013,Lebanon,199632.5
+2013,Ledyard,215000
+2013,Lisbon,159500
+2013,Litchfield,285000
+2013,Lyme,464975
+2013,Madison,439500
+2013,Manchester,169000
+2013,Mansfield,200500
+2013,Marlborough,257250
+2013,Meriden,146500
+2013,Middlebury,280000
+2013,Middlefield,233250
+2013,Middletown,210000
+2013,Milford,255400
+2013,Monroe,324000
+2013,Montville,164375
+2013,Morris,239900
+2013,Naugatuck,161250
+2013,New Britain,122000
+2013,New Canaan,1297500
+2013,New Fairfield,315000
+2013,New Hartford,283000
+2013,New Haven,155000
+2013,New London,128000
+2013,New Milford,267900
+2013,Newington,207450
+2013,Newtown,312500
+2013,Norfolk,260000
+2013,North Branford,261500
+2013,North Canaan,149250
+2013,North Haven,250000
+2013,North Stoningto,232000
+2013,Norwalk,430000
+2013,Norwich,109687.5
+2013,Old Lyme,335000
+2013,Old Saybrook,320000
+2013,Orange,315000
+2013,Oxford,314500
+2013,Plainfield,148000
+2013,Plainville,169950
+2013,Plymouth,164500
+2013,Pomfret,195000
+2013,Portland,235000
+2013,Preston,211250
+2013,Prospect,239000
+2013,Putnam,145500
+2013,Redding,564000
+2013,Ridgefield,650000
+2013,Rocky Hill,255000
+2013,Roxbury,669000
+2013,Salem,242500
+2013,Salisbury,437500
+2013,Scotland,140000
+2013,Seymour,190000
+2013,Sharon,413750
+2013,Shelton,305000
+2013,Sherman,352000
+2013,Simsbury,285000
+2013,Somers,279500
+2013,South Windsor,245500
+2013,Southbury,377500
+2013,Southington,248250
+2013,Sprague,65000
+2013,Stafford,155000
+2013,Stamford,525000
+2013,Sterling,172000
+2013,Stonington,230000
+2013,Stratford,218000
+2013,Suffield,270000
+2013,Thomaston,196500
+2013,Thompson,130974
+2013,Tolland,235000
+2013,Torrington,132897.5
+2013,Trumbull,350000
+2013,Union,265000
+2013,Vernon,165000
+2013,Voluntown,159700
+2013,Wallingford,225000
+2013,Warren,365000
+2013,Washington,501500
+2013,Waterbury,70500
+2013,Waterford,219999.5
+2013,Watertown,190000
+2013,West Hartford,309000
+2013,West Haven,157833.5
+2013,Westbrook,260000
+2013,Weston,762500
+2013,Westport,1196000
+2013,Wethersfield,231000
+2013,Willington,180000
+2013,Wilton,825000
+2013,Winchester,125000
+2013,Windham,106500
+2013,Windsor,184500
+2013,Windsor Locks,157950
+2013,Wolcott,175000
+2013,Woodbridge,375000
+2013,Woodbury,279750
+2013,Woodstock,210000
+2014,Andover,207700
+2014,Ansonia,160000
+2014,Ashford,171450
+2014,Avon,347250
+2014,Barkhamsted,236250
+2014,Beacon Falls,245000
+2014,Berlin,245500
+2014,Bethany,316000
+2014,Bethel,276000
+2014,Bethlehem,222500
+2014,Bloomfield,165000
+2014,Bolton,227647.5
+2014,Bozrah,145625
+2014,Branford,286750
+2014,Bridgeport,120000
+2014,Bridgewater,445000
+2014,Bristol,160000
+2014,Brookfield,335000
+2014,Brooklyn,188298.5
+2014,Burlington,353750
+2014,Canaan,172000
+2014,Canterbury,162450
+2014,Canton,290350
+2014,Chaplin,75000
+2014,Cheshire,263250
+2014,Chester,198000
+2014,Clinton,224500
+2014,Colchester,222000
+2014,Colebrook,203500
+2014,Columbia,247000
+2014,Cornwall,335000
+2014,Coventry,175000
+2014,Cromwell,215250
+2014,Danbury,255000
+2014,Darien,1495000
+2014,Deep River,243000
+2014,Derby,142000
+2014,Durham,260000
+2014,East Granby,214000
+2014,East Haddam,232500
+2014,East Hampton,237500
+2014,East Hartford,121500
+2014,East Haven,164750
+2014,East Lyme,259500
+2014,East Windsor,147359.5
+2014,Eastford,215000
+2014,Easton,590000
+2014,Ellington,249000
+2014,Enfield,160000
+2014,Essex,357250
+2014,Fairfield,530000
+2014,Farmington,329000
+2014,Franklin,102000
+2014,Glastonbury,330000
+2014,Goshen,322500
+2014,Granby,265000
+2014,Greenwich,1550000
+2014,Griswold,141098
+2014,Groton,184000
+2014,Guilford,280000
+2014,Haddam,260000
+2014,Hamden,180000
+2014,Hampton,234000
+2014,Hartford,121800
+2014,Hartland,254500
+2014,Harwinton,227000
+2014,Hebron,247500
+2014,Kent,296000
+2014,Killingly,99400
+2014,Killingworth,332500
+2014,Lebanon,176400
+2014,Ledyard,202250
+2014,Lisbon,165250
+2014,Litchfield,279900
+2014,Lyme,240000
+2014,Madison,350000
+2014,Manchester,155000
+2014,Mansfield,187500
+2014,Marlborough,250000
+2014,Meriden,135000
+2014,Middlebury,319500
+2014,Middlefield,208700
+2014,Middletown,156500
+2014,Milford,260000
+2014,Monroe,317000
+2014,Montville,160000
+2014,Morris,252250
+2014,Naugatuck,140000
+2014,New Britain,118000
+2014,New Canaan,1260000
+2014,New Fairfield,294000
+2014,New Hartford,179000
+2014,New Haven,142875
+2014,New London,127000
+2014,New Milford,257500
+2014,Newington,202000
+2014,Newtown,365000
+2014,Norfolk,275000
+2014,North Branford,256800
+2014,North Canaan,144900
+2014,North Haven,265500
+2014,North Stoningto,220000
+2014,Norwalk,349000
+2014,Norwich,89250
+2014,Old Lyme,310000
+2014,Old Saybrook,327000
+2014,Orange,340000
+2014,Oxford,309900
+2014,Plainfield,154000
+2014,Plainville,170000
+2014,Plymouth,149950
+2014,Pomfret,225000
+2014,Portland,220000
+2014,Preston,199495
+2014,Prospect,220000
+2014,Putnam,133000
+2014,Redding,548500
+2014,Ridgefield,636500
+2014,Rocky Hill,180500
+2014,Roxbury,572000
+2014,Salem,259500
+2014,Salisbury,375000
+2014,Scotland,166166.5
+2014,Seymour,189900
+2014,Sharon,280000
+2014,Shelton,283750
+2014,Sherman,465000
+2014,Simsbury,325000
+2014,Somers,250000
+2014,South Windsor,248000
+2014,Southbury,263450
+2014,Southington,249750
+2014,Sprague,123000
+2014,Stafford,157500
+2014,Stamford,515000
+2014,Sterling,140000
+2014,Stonington,253000
+2014,Stratford,211500
+2014,Suffield,267000
+2014,Thomaston,156000
+2014,Thompson,140100
+2014,Tolland,236250
+2014,Torrington,121950
+2014,Trumbull,349000
+2014,Union,190000
+2014,Vernon,164250
+2014,Voluntown,202000
+2014,Wallingford,225000
+2014,Warren,536000
+2014,Washington,542500
+2014,Waterbury,65000
+2014,Waterford,205000
+2014,Watertown,178750
+2014,West Hartford,290000
+2014,West Haven,156500
+2014,Westbrook,275000
+2014,Weston,851000
+2014,Westport,1190000
+2014,Wethersfield,199900
+2014,Willington,142000
+2014,Wilton,803000
+2014,Winchester,119000
+2014,Windham,96500
+2014,Windsor,160500
+2014,Windsor Locks,163500
+2014,Wolcott,175000
+2014,Woodbridge,404000
+2014,Woodbury,254500
+2014,Woodstock,208750
+2015,Andover,194450
+2015,Ansonia,148000
+2015,Ashford,177000
+2015,Avon,350000
+2015,Barkhamsted,205000
+2015,Beacon Falls,209250
+2015,Berlin,245500
+2015,Bethany,322000
+2015,Bethel,294000
+2015,Bethlehem,252000
+2015,Bloomfield,184900
+2015,Bolton,227000
+2015,Bozrah,158000
+2015,Branford,207500
+2015,Bridgeport,114949.5
+2015,Bridgewater,390000
+2015,Bristol,156250
+2015,Brookfield,315000
+2015,Brooklyn,177250
+2015,Burlington,295000
+2015,Canaan,159000
+2015,Canterbury,180700
+2015,Canton,280000
+2015,Chaplin,150000
+2015,Cheshire,283500
+2015,Chester,301500
+2015,Clinton,233000
+2015,Colchester,225500
+2015,Colebrook,159000
+2015,Columbia,220000
+2015,Cornwall,153500
+2015,Coventry,197000
+2015,Cromwell,180000
+2015,Danbury,252500
+2015,Darien,1425000
+2015,Deep River,215000
+2015,Derby,140000
+2015,Durham,285400
+2015,East Granby,246000
+2015,East Haddam,208500
+2015,East Hampton,229000
+2015,East Hartford,122000
+2015,East Haven,164500
+2015,East Lyme,251000
+2015,East Windsor,160000
+2015,Eastford,230000
+2015,Easton,590000
+2015,Ellington,240000
+2015,Enfield,160000
+2015,Essex,315000
+2015,Fairfield,530000
+2015,Farmington,272500
+2015,Franklin,165950
+2015,Glastonbury,292500
+2015,Goshen,310000
+2015,Granby,272500
+2015,Greenwich,1450000
+2015,Griswold,138700
+2015,Groton,169400
+2015,Guilford,327500
+2015,Haddam,234000
+2015,Hamden,169000
+2015,Hampton,212500
+2015,Hartford,109000
+2015,Hartland,212000
+2015,Harwinton,222000
+2015,Hebron,265750
+2015,Kent,236500
+2015,Killingly,136625
+2015,Killingworth,331166.5
+2015,Lebanon,175000
+2015,Ledyard,192375
+2015,Lisbon,169900
+2015,Litchfield,279000
+2015,Lyme,397500
+2015,Madison,381520
+2015,Manchester,154000
+2015,Mansfield,178750
+2015,Marlborough,247450
+2015,Meriden,130000
+2015,Middlebury,301000
+2015,Middlefield,225000
+2015,Middletown,165000
+2015,Milford,247000
+2015,Monroe,299450
+2015,Montville,156500
+2015,Morris,305000
+2015,Naugatuck,130000
+2015,New Britain,114392.5
+2015,New Canaan,1325000
+2015,New Fairfield,319199.5
+2015,New Hartford,220000
+2015,New Haven,154450
+2015,New London,118000
+2015,New Milford,235000
+2015,Newington,189000
+2015,Newtown,365000
+2015,Norfolk,180000
+2015,North Branford,234900
+2015,North Canaan,125000
+2015,North Haven,245579.5
+2015,North Stoningto,210000
+2015,Norwalk,365000
+2015,Norwich,80000
+2015,Old Lyme,350000
+2015,Old Saybrook,325250
+2015,Orange,347200
+2015,Oxford,341000
+2015,Plainfield,141200
+2015,Plainville,155000
+2015,Plymouth,135750
+2015,Pomfret,264500
+2015,Portland,193050
+2015,Preston,181500
+2015,Prospect,260000
+2015,Putnam,132500
+2015,Redding,530000
+2015,Ridgefield,582500
+2015,Rocky Hill,195000
+2015,Roxbury,531500
+2015,Salem,218500
+2015,Salisbury,471875
+2015,Scotland,173750
+2015,Seymour,178000
+2015,Sharon,276750
+2015,Shelton,274900
+2015,Sherman,430000
+2015,Simsbury,286875
+2015,Somers,269000
+2015,South Windsor,226130
+2015,Southbury,179000
+2015,Southington,222000
+2015,Sprague,120000
+2015,Stafford,159900
+2015,Stamford,428050
+2015,Sterling,170700
+2015,Stonington,289900
+2015,Stratford,197500
+2015,Suffield,253000
+2015,Thomaston,158000
+2015,Thompson,147551.5
+2015,Tolland,223750
+2015,Torrington,99000
+2015,Trumbull,345000
+2015,Union,150000
+2015,Vernon,150000
+2015,Voluntown,175000
+2015,Wallingford,215000
+2015,Warren,299000
+2015,Washington,376000
+2015,Waterbury,65000
+2015,Waterford,196200
+2015,Watertown,181000
+2015,West Hartford,284000
+2015,West Haven,150000
+2015,Westbrook,269000
+2015,Weston,805000
+2015,Westport,1150000
+2015,Wethersfield,212250
+2015,Willington,189950
+2015,Wilton,773500
+2015,Winchester,112000
+2015,Windham,105500
+2015,Windsor,182000
+2015,Windsor Locks,154500
+2015,Wolcott,189750
+2015,Woodbridge,310000
+2015,Woodbury,232500
+2015,Woodstock,218500
